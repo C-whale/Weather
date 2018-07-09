@@ -1,0 +1,8 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/select-city/select-city",
+        "pages/setting/setting",
+        "pages/about/about"
+    ]
+}
